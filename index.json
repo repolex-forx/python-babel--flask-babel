@@ -1,0 +1,11 @@
+{
+  "org": "python-babel",
+  "repo": "flask-babel",
+  "versions": [
+    {
+      "commit": "869715cfea201086d70d945fadc32ab13bbd6b68",
+      "tag": "",
+      "parsed_at": "2026-10-12T22:57:23.626558+00:00"
+    }
+  ]
+}
