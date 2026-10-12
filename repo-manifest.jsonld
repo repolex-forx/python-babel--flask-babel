@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/python-babel/flask-babel/commit/869715cfea201086d70d945fadc32ab13bbd6b68",
       "git:hexsha": "869715cfea201086d70d945fadc32ab13bbd6b68",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-12T22:57:23.625968+00:00"
     },
     {
       "@id": "https://repolex.ai/r/python-babel/flask-babel/commit/dd730e08728b636353ee89f863cc931234d1f434",
